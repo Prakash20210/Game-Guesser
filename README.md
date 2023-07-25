@@ -26,11 +26,15 @@ guessNumber(): Takes the Guesser's input from the console as an integer and retu
 guessNumber(): Takes each Player's input from the console as an integer and returns it.
 
 3=>Umpire class:
+
 ~ collectNumFromGuesser(): Creates a Guesser object, collects the Guesser's guessed number using the guessNumber() method, and stores it in the numFromGuesser variable.
+
 ~ collectNumFromPlayer(): Creates three Player objects, collects guessed numbers from each Player using the guessNumber() method, and stores them in numFromPlayer1, numFromPlayer2, and numFromPlayer3 variables.
+
 ~ compare(): Compares the Guesser's guessed number with the numbers guessed by the Players and announces the winner(s) or if the game is tied.
 
 4=> GameGuesser class:
+
 ~ main(): The entry point of the program. It creates an Umpire object, collects inputs from the Guesser and Players, and then compares the guesses to determine the winner(s) or if the game is tied.
 
 
