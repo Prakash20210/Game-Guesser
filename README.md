@@ -1,7 +1,7 @@
-#Project Name
+# Project Name
 # Game-Guesser
 
-#Project Overview
+# Project Overview
 
 This Java program is a simple number guessing game involving a Guesser and three Players, with an Umpire deciding the winner(s). Here's how the game works:
 
@@ -10,13 +10,13 @@ The Player class represents the Players who have to guess a number.
 The Umpire class acts as the mediator to collect guesses from the Guesser and the three Players and decide the winner(s).
 The GameGuesser class is the main class to run the game.
 
-#Features
+# Features
 1.The Guesser enters their guessed number.
 2.Three Players enter their guessed numbers.
 3.The Umpire compares the Guesser's number with the numbers guessed by the Players and announces the winner(s) or if the game is tied.
 
 
-#Explanation 
+# Explanation 
 1=> Guesser class:
 guessNumber(): Takes the Guesser's input from the console as an integer and returns it.
 
@@ -32,7 +32,7 @@ guessNumber(): Takes each Player's input from the console as an integer and retu
 ~ main(): The entry point of the program. It creates an Umpire object, collects inputs from the Guesser and Players, and then compares the guesses to determine the winner(s) or if the game is tied.
 
 
-#Contributing
+# Contributing
 Contributions to the Gane-Guesser are welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
@@ -41,8 +41,8 @@ Commit your changes: git commit -m "Add your feature"
 Push the branch to your fork: git push origin feature/your_feature
 Submit a pull request to the develop branch.
 
-#License
+# License
 The Guesser-Game is released under the MIT License..]
 
-#Contact
+# Contact
 For any questions or feedback, feel free to reach out to us at prakashg281@gmail.com
