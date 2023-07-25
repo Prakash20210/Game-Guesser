@@ -53,7 +53,7 @@ Push the branch to your fork: git push origin feature/your_feature
 Submit a pull request to the develop branch.
 
 # License
-The Guesser-Game is released under the MIT License..]
+The Guesser-Game is released under the MIT License.
 
 # Contact
 For any questions or feedback, feel free to reach out to us at prakashg281@gmail.com
