@@ -39,12 +39,17 @@ guessNumber(): Takes each Player's input from the console as an integer and retu
 
 
 # Contributing
+
 Contributions to the Gane-Guesser are welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
+
 Create a new branch: git checkout -b feature/your_feature
+
 Commit your changes: git commit -m "Add your feature"
+
 Push the branch to your fork: git push origin feature/your_feature
+
 Submit a pull request to the develop branch.
 
 # License
