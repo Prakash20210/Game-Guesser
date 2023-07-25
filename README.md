@@ -12,7 +12,9 @@ The GameGuesser class is the main class to run the game.
 
 # Features
 1.The Guesser enters their guessed number.
+
 2.Three Players enter their guessed numbers.
+
 3.The Umpire compares the Guesser's number with the numbers guessed by the Players and announces the winner(s) or if the game is tied.
 
 
